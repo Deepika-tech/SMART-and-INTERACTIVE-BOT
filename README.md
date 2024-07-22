@@ -1,1 +1,2 @@
 # SMART-and-INTERACTIVE-BOT
+Developed a SMART AND INTERACTIVE BOT using Python and various data analysis and machine learning libraries to handle customer inquiries, provide real-time transaction support, and offer personalized financial assistance. The project significantly enhanced customer satisfaction and operational efficiency. Implementing advanced AI and machine learning techniques increased customer engagement.”
